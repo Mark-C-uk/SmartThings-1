@@ -30,7 +30,7 @@
  *
  *****************************************************************************************************************/
 metadata {
-    definition (name: "Z-Wave Tweaker", namespace: "codersaur", author: "David Lomas") {
+    definition (name: "zwave-tweaker", namespace: "codersaur", author: "David Lomas") {
         capability "Actuator"
         capability "Sensor"
 
